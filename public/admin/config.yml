@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/0x3a0/My-Blog # 请替换为您的 GitHub 仓库
+  repo: 0x3a0/My-Blog # 请替换为您的 GitHub 仓库
   branch: main # 请替换为您的分支名称
   site_domain: 0x3a0.vercel.app # 请替换为您的域名
   base_url: https://0x3a0.vercel.app/  # 请替换为您的 URL
