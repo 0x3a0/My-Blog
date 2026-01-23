@@ -146,7 +146,7 @@ site:
   # bangumi 配置
   bangumi:
     # 用户 ID
-    userId: "0x3a0"
+    userId: ""
   # OpenGraph 配置
   generateOgImages: false
 
