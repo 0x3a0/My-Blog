@@ -8,7 +8,7 @@ draft: false
 tags: ["设计模式", "Python"]
 category: "设计模式"
 author: "0x3a0"
-sourceLink: "https://github.com/0x3a0/blog/src/posts"
+sourceLink: "https://github.com/0x3a0/blog/src/posts/单例模式（Singleton Pattern）.md"
 ---
 
 # Singleton
