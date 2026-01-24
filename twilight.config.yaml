@@ -165,12 +165,10 @@ umami:
 navbar:
   # 链接配置 (链接预设位于 src/constants/link-presets.ts)
   links:
-    #- "Home"
-    # 一级导航链接 - 归档 (预设)
-    - "Archive"
+    - "Home"
     # 一级导航链接 - 展览 (自定义)
       # 导航名称
-    - name: "关于我"
+    - name: "关于"
       # 导航链接
       url: "/resume/"
       # 导航图标
@@ -181,10 +179,6 @@ navbar:
       children:
         # 二级导航链接 - 项目 (预设)
         - "Projects"
-        # 二级导航链接 - 技能 (预设)
-        - "Skills"
-        # 二级导航链接 - 历程 (预设)
-        - "Timeline"
     # 一级导航链接 - 好友 (预设)
     - "Friends"
 
