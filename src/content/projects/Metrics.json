@@ -1,0 +1,22 @@
+{
+  "title": "Metrics",
+  "description": "一款能够监控CS库存数据变化的工具",
+  "image": "",
+  "category": "",
+  "techStack": [
+    "Vue",
+    "NodeJS",
+    "Redis",
+    "Express",
+    "Tailwindcss"
+  ],
+  "status": "in-progress",
+  "liveDemo": "",
+  "sourceCode": "https://github.com/0x3a0/Metrics",
+  "startDate": "2025-12-25",
+  "endDate": "",
+  "featured": true,
+  "tags": [
+    "Open Source"
+  ]
+}
